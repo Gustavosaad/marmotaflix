@@ -1,0 +1,39 @@
+body {
+    color:black;
+    background: beige;
+    margin: 0px;
+    font-family: "Lexend", sans-serif;
+}
+
+header {
+
+    border-bottom: solid 3px black;
+    padding: 20px;
+    font-size:50px;
+    justify-content: center;
+}
+
+section{
+
+    background: rgb(147,125,91);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto{
+
+    margin-right: 10%;
+}
+
+h1{
+    font-size: 36px;
+}
+
+p{
+    font-size: 18;
+}
+.cu-de-marmota{
+    margin: 10%;
+}
